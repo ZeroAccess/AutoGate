@@ -31,11 +31,14 @@ fabric.properties
 .gradle/
 .gradle
 /gradle
+gradle/
+settings.gradle
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
 /build
+build/
 *.apk
 *.ap_
 
