@@ -29,6 +29,8 @@ fabric.properties
 ## Android Studio
 #################
 .gradle/
+.gradle
+/gradle
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
